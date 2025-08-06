@@ -42,7 +42,4 @@ Este projeto é uma aplicação web simples e interativa desenvolvida com **HTML
 - `alterarStatusBotaoReiniciar(ativo)`: ativa ou desativa o botão de reinício
 - `gerarNumeroAleatorio(min, max)`: função auxiliar para gerar números aleatórios
 
----
-
-## 📦 Estrutura de pastas
 
